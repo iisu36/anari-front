@@ -1,0 +1,1308 @@
+{
+  "season": "2025-2026",
+  "capturedAt": "2026-09-18T19:26:05Z",
+  "standings": [
+    {
+      "teamName": "Colorado Avalanche",
+      "teamId": "COL",
+      "points": 121,
+      "division": "Central",
+      "divisionRank": 1,
+      "leagueRank": 1,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg"
+    },
+    {
+      "teamName": "Carolina Hurricanes",
+      "teamId": "CAR",
+      "points": 113,
+      "division": "Metropolitan",
+      "divisionRank": 1,
+      "leagueRank": 2,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg"
+    },
+    {
+      "teamName": "Dallas Stars",
+      "teamId": "DAL",
+      "points": 112,
+      "division": "Central",
+      "divisionRank": 2,
+      "leagueRank": 3,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/DAL_light.svg"
+    },
+    {
+      "teamName": "Buffalo Sabres",
+      "teamId": "BUF",
+      "points": 109,
+      "division": "Atlantic",
+      "divisionRank": 1,
+      "leagueRank": 4,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg"
+    },
+    {
+      "teamName": "Tampa Bay Lightning",
+      "teamId": "TBL",
+      "points": 106,
+      "division": "Atlantic",
+      "divisionRank": 2,
+      "leagueRank": 5,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg"
+    },
+    {
+      "teamName": "Montréal Canadiens",
+      "teamId": "MTL",
+      "points": 106,
+      "division": "Atlantic",
+      "divisionRank": 3,
+      "leagueRank": 6,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/MTL_light.svg"
+    },
+    {
+      "teamName": "Minnesota Wild",
+      "teamId": "MIN",
+      "points": 104,
+      "division": "Central",
+      "divisionRank": 3,
+      "leagueRank": 7,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/MIN_light.svg"
+    },
+    {
+      "teamName": "Boston Bruins",
+      "teamId": "BOS",
+      "points": 100,
+      "division": "Atlantic",
+      "divisionRank": 4,
+      "leagueRank": 8,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg?season=20252026"
+    },
+    {
+      "teamName": "Ottawa Senators",
+      "teamId": "OTT",
+      "points": 99,
+      "division": "Atlantic",
+      "divisionRank": 5,
+      "leagueRank": 9,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg"
+    },
+    {
+      "teamName": "Pittsburgh Penguins",
+      "teamId": "PIT",
+      "points": 98,
+      "division": "Metropolitan",
+      "divisionRank": 2,
+      "leagueRank": 10,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/PIT_light.svg"
+    },
+    {
+      "teamName": "Philadelphia Flyers",
+      "teamId": "PHI",
+      "points": 98,
+      "division": "Metropolitan",
+      "divisionRank": 3,
+      "leagueRank": 11,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg"
+    },
+    {
+      "teamName": "Washington Capitals",
+      "teamId": "WSH",
+      "points": 95,
+      "division": "Metropolitan",
+      "divisionRank": 4,
+      "leagueRank": 12,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/WSH_secondary_light.svg"
+    },
+    {
+      "teamName": "Vegas Golden Knights",
+      "teamId": "VGK",
+      "points": 95,
+      "division": "Pacific",
+      "divisionRank": 1,
+      "leagueRank": 13,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg"
+    },
+    {
+      "teamName": "Edmonton Oilers",
+      "teamId": "EDM",
+      "points": 93,
+      "division": "Pacific",
+      "divisionRank": 2,
+      "leagueRank": 14,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/EDM_light.svg"
+    },
+    {
+      "teamName": "Utah Mammoth",
+      "teamId": "UTA",
+      "points": 92,
+      "division": "Central",
+      "divisionRank": 4,
+      "leagueRank": 15,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/UTA_light.svg?season=20252026"
+    },
+    {
+      "teamName": "Detroit Red Wings",
+      "teamId": "DET",
+      "points": 92,
+      "division": "Atlantic",
+      "divisionRank": 6,
+      "leagueRank": 16,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/DET_light.svg?season=20252026"
+    },
+    {
+      "teamName": "Columbus Blue Jackets",
+      "teamId": "CBJ",
+      "points": 92,
+      "division": "Metropolitan",
+      "divisionRank": 5,
+      "leagueRank": 17,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CBJ_light.svg"
+    },
+    {
+      "teamName": "Anaheim Ducks",
+      "teamId": "ANA",
+      "points": 92,
+      "division": "Pacific",
+      "divisionRank": 3,
+      "leagueRank": 18,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/ANA_light.svg"
+    },
+    {
+      "teamName": "New York Islanders",
+      "teamId": "NYI",
+      "points": 91,
+      "division": "Metropolitan",
+      "divisionRank": 6,
+      "leagueRank": 19,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/NYI_light.svg"
+    },
+    {
+      "teamName": "Los Angeles Kings",
+      "teamId": "LAK",
+      "points": 90,
+      "division": "Pacific",
+      "divisionRank": 4,
+      "leagueRank": 20,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/LAK_light.svg"
+    },
+    {
+      "teamName": "New Jersey Devils",
+      "teamId": "NJD",
+      "points": 87,
+      "division": "Metropolitan",
+      "divisionRank": 7,
+      "leagueRank": 21,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/NJD_light.svg"
+    },
+    {
+      "teamName": "St. Louis Blues",
+      "teamId": "STL",
+      "points": 86,
+      "division": "Central",
+      "divisionRank": 5,
+      "leagueRank": 22,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg?season=20252026"
+    },
+    {
+      "teamName": "Nashville Predators",
+      "teamId": "NSH",
+      "points": 86,
+      "division": "Central",
+      "divisionRank": 6,
+      "leagueRank": 23,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg"
+    },
+    {
+      "teamName": "San Jose Sharks",
+      "teamId": "SJS",
+      "points": 86,
+      "division": "Pacific",
+      "divisionRank": 5,
+      "leagueRank": 24,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg"
+    },
+    {
+      "teamName": "Florida Panthers",
+      "teamId": "FLA",
+      "points": 84,
+      "division": "Atlantic",
+      "divisionRank": 7,
+      "leagueRank": 25,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg"
+    },
+    {
+      "teamName": "Winnipeg Jets",
+      "teamId": "WPG",
+      "points": 82,
+      "division": "Central",
+      "divisionRank": 7,
+      "leagueRank": 26,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/WPG_light.svg"
+    },
+    {
+      "teamName": "Seattle Kraken",
+      "teamId": "SEA",
+      "points": 79,
+      "division": "Pacific",
+      "divisionRank": 6,
+      "leagueRank": 27,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/SEA_light.svg"
+    },
+    {
+      "teamName": "Toronto Maple Leafs",
+      "teamId": "TOR",
+      "points": 78,
+      "division": "Atlantic",
+      "divisionRank": 8,
+      "leagueRank": 28,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/TOR_light.svg"
+    },
+    {
+      "teamName": "Calgary Flames",
+      "teamId": "CGY",
+      "points": 77,
+      "division": "Pacific",
+      "divisionRank": 7,
+      "leagueRank": 29,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CGY_light.svg"
+    },
+    {
+      "teamName": "New York Rangers",
+      "teamId": "NYR",
+      "points": 77,
+      "division": "Metropolitan",
+      "divisionRank": 8,
+      "leagueRank": 30,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg"
+    },
+    {
+      "teamName": "Chicago Blackhawks",
+      "teamId": "CHI",
+      "points": 72,
+      "division": "Central",
+      "divisionRank": 8,
+      "leagueRank": 31,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg?season=20252026"
+    },
+    {
+      "teamName": "Vancouver Canucks",
+      "teamId": "VAN",
+      "points": 58,
+      "division": "Pacific",
+      "divisionRank": 8,
+      "leagueRank": 32,
+      "teamLogo": "https://assets.nhle.com/logos/nhl/svg/VAN_light.svg"
+    }
+  ],
+  "players": [
+    {
+      "name": "Akkeri",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 133
+    },
+    {
+      "name": "Huida",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "MTL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "ANA"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 140
+    },
+    {
+      "name": "Kantti",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 154
+    },
+    {
+      "name": "Karvanen",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 126
+    },
+    {
+      "name": "Keskari",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "CGY"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NYI"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 153
+    },
+    {
+      "name": "Koota",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 141
+    },
+    {
+      "name": "Korpunen",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "DET"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "NSH"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VAN"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 138
+    },
+    {
+      "name": "Koura",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "MIN"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 133
+    },
+    {
+      "name": "Kulhua",
+      "teams": [
+        {
+          "teamId": "MTL"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "STL"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 149
+    },
+    {
+      "name": "Kulmala",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "WSH"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "VGK"
+        }
+      ],
+      "statLeader": 140
+    },
+    {
+      "name": "Kuukkeli",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 136
+    },
+    {
+      "name": "Miikkulainen",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 126
+    },
+    {
+      "name": "Pääjoki",
+      "teams": [
+        {
+          "teamId": "MTL"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "NSH"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "VAN"
+        },
+        {
+          "teamId": "ANA"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 141
+    },
+    {
+      "name": "Peltomäki",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "VAN"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 128
+    },
+    {
+      "name": "Perälä",
+      "teams": [
+        {
+          "teamId": "BOS"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "BUF"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "VAN"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 131
+    },
+    {
+      "name": "Roope",
+      "teams": [
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "MTL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "STL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "ANA"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "CBJ"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 134
+    },
+    {
+      "name": "Saku",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 135
+    },
+    {
+      "name": "Samppa",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "EDM"
+        }
+      ],
+      "statLeader": 129
+    },
+    {
+      "name": "Sari",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 140
+    },
+    {
+      "name": "Suvanto",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NYR"
+        },
+        {
+          "teamId": "NYI"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "VAN"
+        },
+        {
+          "teamId": "LAK"
+        }
+      ],
+      "statLeader": 117
+    },
+    {
+      "name": "Tontza",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NYR"
+        },
+        {
+          "teamId": "WSH"
+        }
+      ],
+      "statLeader": 138
+    },
+    {
+      "name": "Väänänen",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "MTL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "STL"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "PIT"
+        }
+      ],
+      "statLeader": 124
+    },
+    {
+      "name": "Vastamäki",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "TOR"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 150
+    },
+    {
+      "name": "Järvinen",
+      "teams": [
+        {
+          "teamId": "FLA"
+        },
+        {
+          "teamId": "TBL"
+        },
+        {
+          "teamId": "OTT"
+        },
+        {
+          "teamId": "WPG"
+        },
+        {
+          "teamId": "COL"
+        },
+        {
+          "teamId": "DAL"
+        },
+        {
+          "teamId": "EDM"
+        },
+        {
+          "teamId": "LAK"
+        },
+        {
+          "teamId": "VGK"
+        },
+        {
+          "teamId": "CAR"
+        },
+        {
+          "teamId": "NJD"
+        },
+        {
+          "teamId": "NYR"
+        }
+      ],
+      "statLeader": 139
+    }
+  ],
+  "statLeader": {
+    "name": "McDavid",
+    "points": 138
+  }
+}

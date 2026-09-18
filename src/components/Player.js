@@ -17,7 +17,10 @@ const NameWrapper = styled.div`
   h2,
   .statleader {
     color: hsl(27.1, 87.7%, 58.4%);
-    text-shadow: -1px 1px 1px #000, 1px 1px 1px #000, 1px -1px 0 #000,
+    text-shadow:
+      -1px 1px 1px #000,
+      1px 1px 1px #000,
+      1px -1px 0 #000,
       -1px -1px 0 #000;
     text-transform: uppercase;
   }
@@ -48,32 +51,37 @@ const DivisionWrapper = styled.div`
 `
 
 const Player = ({ player, playerRank, standings }) => {
+  const choicesRevealed = player.choicesRevealed !== false
+
   return (
     <Wrapper>
       <NameWrapper>
         <h2>
-          <span>{playerRank}.</span> {player.points} {player.name}{' '}
+          <span>{playerRank}.</span> {choicesRevealed && `${player.points} `}
+          {player.name}
         </h2>
-        <h4 className="statleader">{player.statLeader}</h4>
+        {choicesRevealed && <h4 className="statleader">{player.statLeader}</h4>}
       </NameWrapper>
-      <TeamsWrapper>
-        {divisions.map((division) => {
-          return (
-            <DivisionWrapper
-              key={`${(player.name, division)}`}
-              division={division}
-            >
-              {player.teams
-                .filter((team) => team.division === division)
-                .map((team) => {
-                  team.teamLogo = standings[team.teamId].teamLogo
-                  const key = `${player.name}${team.teamId}`
-                  return <Team key={key} team={team}></Team>
-                })}
-            </DivisionWrapper>
-          )
-        })}
-      </TeamsWrapper>
+      {choicesRevealed && (
+        <TeamsWrapper>
+          {divisions.map((division) => {
+            return (
+              <DivisionWrapper
+                key={`${(player.name, division)}`}
+                division={division}
+              >
+                {player.teams
+                  .filter((team) => team.division === division)
+                  .map((team) => {
+                    team.teamLogo = standings[team.teamId].teamLogo
+                    const key = `${player.name}${team.teamId}`
+                    return <Team key={key} team={team}></Team>
+                  })}
+              </DivisionWrapper>
+            )
+          })}
+        </TeamsWrapper>
+      )}
     </Wrapper>
   )
 }

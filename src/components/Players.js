@@ -30,6 +30,11 @@ const Players = ({ players, standings, statLeader }) => {
 
 const countPoints = (players, standings, statLeader) => {
   const countedPlayers = [...players]
+
+  if (countedPlayers.some((player) => player.choicesRevealed === false)) {
+    return countedPlayers.sort((a, b) => a.name.localeCompare(b.name))
+  }
+
   countedPlayers.forEach((player) => {
     player.points = 0
     player.teams.forEach((playerTeam) => {
